@@ -1,0 +1,4 @@
+[project]
+name = "ai-pca-dimension-reduce"
+version = "0.1.0"
+description = "Projects high-dimensional data onto orthogonal eigenvectors of the sample covariance matrix."
